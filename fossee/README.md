@@ -18,7 +18,7 @@ Login Page .: /login
 <img src ="https://raw.githubusercontent.com/sourav8256/image_host/master/login_page.png"/>
 
 
-Teacher's Mark Page .:
+Teacher's Mark Page .: /marks/teachers
 
 This page is for teachers to see marks of all students at once
 
